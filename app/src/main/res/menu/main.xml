@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/saveProject" android:title="@string/saveProject" android:orderInCategory="100"></item>
+    
+    <item android:id="@+id/metronome" android:title="@string/metronomeOff"  android:checkable="true"></item>
+
+	
+</menu>
