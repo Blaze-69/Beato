@@ -2,4 +2,4 @@
 This is a Beat Maker App.
 
 
-![Beato](docs/gif/Beato.gif)
+<img src="docs/gif/Beato.gif" height="450px" width="250px"/>
